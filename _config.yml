@@ -118,10 +118,10 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus 选项 › https://giscus.app
   giscus:
-    repo: # <gh-username>/<repo> (例如: fang180/blog)
-    repo_id: # R_kgD... (在 giscus.app 页面底部获取)
-    category: General # 推荐填 General
-    category_id: # DIC_kwD... (在 giscus.app 页面底部获取)
+    repo: xiaobai564/xiaobai564.github.io # <gh-username>/<repo>
+    repo_id: R_kgDORJGwCQ
+    category: General
+    category_id: DIC_kwDORJGwCc4CkGvC
     mapping: pathname # 可选，默认为 'pathname'
     strict: 0 # 可选，默认为 '0'
     input_position: bottom # 可选，默认为 'bottom'
