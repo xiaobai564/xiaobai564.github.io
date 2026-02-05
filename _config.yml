@@ -14,7 +14,7 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag 设置 › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 小小白 # 主标题
+title: 小小白的教程 # 主标题
 
 tagline: 全网账号注册指南 # 副标题
 
@@ -34,7 +34,7 @@ twitter:
 social:
   # 改为你的全名。
   # 它将显示为文章的默认作者以及页脚的版权所有者
-  name: 小小白
+  name: 小小白的教程
   email: xxb@584136.xyz # 改为你的电子邮件地址
   links:
     # 第一个元素作为版权所有者的链接
