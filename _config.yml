@@ -121,7 +121,7 @@ comments:
     repo: xiaobai564/xiaobai564.github.io # <gh-username>/<repo>
     repo_id: R_kgDORJGwCQ
     category: General
-    category_id: DIC_kwDORJGwCc4CkGvC
+    category_id: DIC_kwDORJGwCc4C16Pd
     mapping: pathname # 可选，默认为 'pathname'
     strict: 0 # 可选，默认为 '0'
     input_position: bottom # 可选，默认为 'bottom'
